@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Athletic Body Plan V3 — Programme sportif personnel
+Sitemap: /sitemap.xml
